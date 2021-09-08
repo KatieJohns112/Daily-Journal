@@ -8,3 +8,4 @@ export const entryListComponent = () => {
         entryLog.innerHTML += journalEntryComponent(entry)
     }
 }
+
