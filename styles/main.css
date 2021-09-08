@@ -12,8 +12,6 @@ h1 {
 }
 
 body {
-    background-image: url("../images/white-shiplap.jpeg");
-    background-size: cover;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -50,7 +48,6 @@ body {
     font-size: 20px;
     margin: 10px;
     max-width: 30%;
-    padding-left: 1%;
     background-color: white;
 }
 
@@ -73,8 +70,9 @@ footer {
 
 .info {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: left;
     flex-direction: column;
+    margin-left: 30px;
 }
 
 .dropbtn {
@@ -117,3 +115,12 @@ footer {
   
   /* Change the background color of the dropdown button when the dropdown content is shown */
   .dropdown:hover .dropbtn {background-color: #f1a71c;}
+
+  html {
+    background: url("/images/white-shiplap.jpeg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  
