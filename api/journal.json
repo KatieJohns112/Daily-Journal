@@ -2,11 +2,32 @@
   "users": [
     {
       "id": 1,
-      "email": "katielong112@gmail.com",
-      "name": "Katie",
-      "dateJoined": 1630513684989,
-      "stateId": 26
-    }
+      "date": "08/10/2021",
+      "concept": "HTML & CSS",
+      "entry": "We talked about the main components when setting up HTML. We also worked on Yellow Brick Code and semantic details,",
+      "mood": "excited"
+  },
+  {
+      "id": 2,
+      "date": "07/26/2025",
+      "concept": "Complex Flexbox",
+      "entry": "I tried to have an element in my Flexbox layout also be another Flexbox layout. It hurt my brain. I hate Steve.",
+      "mood": "Sad"
+  },
+  {
+      "id": 3,
+      "date": "09/17/2021",
+      "concept": "Holiday Road",
+      "entry": "We finished our groups projects on Holiday Road and presented them to both the class and our respective instructor.",
+      "mood": "happy"
+  },
+  {
+      "id": 4,
+      "date": "09/17/2021",
+      "concept": "Holiday Road",
+      "entry": "We finished our groups projects on Holiday Road and presented them to both the class and our respective instructor.",
+      "mood": "happy"
+  }
   ],
   "journalEntries": [
     {
