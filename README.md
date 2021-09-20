@@ -18,7 +18,8 @@ My Daily Journal displays information through five components all holding differ
 
 Located in my Daily Journal is developer language such as JavaScript, HTML and CSS. Other outside websites have been used in created my intial journal set up such as Figma for the wireframe, Canva for the logo and DBdiagram to make connections between correlating objects.
 
-## Personas
+## Documentation
+
 | [dbdiagram](./images/Daily-Journal-dbdiagram.png) | 
 | -- | -- | -- | -- | -- | -- | -- |
 |![](./images/Daily-Journal-dbdiagram.png) | 
