@@ -1,10 +1,12 @@
 export const journalEntryComponent = (entry) => {
-    return `<section id="entry-${entry.id}" class="journalEntry">
-        date:${entry.date} 
-        concept:${entry.concept} 
-        entry:${entry.entry}
-        mood:${entry.mood}</section>`
-
+    return `
+    <section id="entry-${entry.id}" class="journalEntry"></section>
+     <h1>${entry.concept}</h1>
+     <h3>${entry.entry}</h3>
+     <h4>${entry.date}</h4>
+     <h5>${entry.mood}</h5>
+    </section>
+`
 }
 
 // export const JournalEntryComponent = (entry) => {
