@@ -1,66 +1,90 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa|Patua+One");
+
+
 h1 {
     text-align: center;
-    background-color:#8dc4d1;
-    color: rgb(38, 48, 38);
+    background-color: rgb(153, 115, 121);
+    color: black;
     padding-top: 1%;
     padding-bottom: 1%;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 .header {
     text-align: center;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: "Comfortaa", Arial, sans-serif;
+    border-style: solid;
+    border-color: rgb(218, 181, 187);;
+    border-width: thick;
 }
 
 body {
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("../images/darkmountains.jpeg");
+    background-size: cover;
+    font-family: "Comfortaa", Arial, sans-serif;
 }
 
 .top-logo {
-    text-align: center;
+    text-align: left;
     border-radius: 200px;
-    max-width: 12%;
+    max-width: 8%;
+    margin-top: 2%;
 
 }
 
 .date{
     font-size: 20px;
-    margin:30px;
+    margin-top: 2%;
+    margin-bottom: 2%;
     max-width: 20%;
     text-align: center;
-    background-color: white;
+    background-color: rgb(218, 181, 187);
+    margin-left: 25%;
 }
 
 .text {
     font-size: 20px; 
-    margin:30px;
+    margin-top: 2%;
+    margin-bottom: 2%;
     max-width: 40%;
-    background-color: white;
+    background-color:rgb(218, 181, 187);
+    margin-left: 25%;
 }
 
 .concepts {
     font-size: 20px;
-    margin:30px;
+    margin-top: 2%;
+    margin-bottom: 2%;
     max-width: 40%;
-    background-color: white;
+    background-color:rgb(218, 181, 187);
+    margin-left: 25%;
 }
 
 .mood {
     font-size: 20px;
-    margin: 10px;
+    margin-top: 2%;
+    margin-bottom: 2%;
     max-width: 30%;
-    background-color: white;
+    background-color: rgb(218, 181, 187);
+    margin-left: 25%;
 }
 
 .button {
     font-size: 20px;
-    margin: 20px
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 25%;
 }
 
 footer {
     display: flex;
     flex-direction: column;
-    background-color:#1d7386;
+    background-color: rgb(153, 115, 121);
     color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
 }
 
 .copyright {
@@ -94,14 +118,14 @@ footer {
   .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #f1f1f1;
+    background-color: white;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
   }
   
   .dropdown-content a {
-    color: black;
+    color: white;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
@@ -116,11 +140,13 @@ footer {
   /* Change the background color of the dropdown button when the dropdown content is shown */
   .dropdown:hover .dropbtn {background-color: #f1a71c;}
 
-  html {
-    background: url("/images/white-shiplap.jpeg") no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+  .entries {
+    color: white;
+    margin-top: 2%;
+    margin-bottom: 4%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-style: solid;
+    border-color: rgb(218, 181, 187);
+    border-width: thick;
   }
-  

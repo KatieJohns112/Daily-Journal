@@ -1,10 +1,10 @@
 const journal = [
     {
         id: 1,
-        date: "07/24/2025",
+        date: "08/10/2021",
         concept: "HTML & CSS",
-        entry: "We talked about HTML components and how to make grid layouts with Flexbox in CSS.",
-        mood: "Ok"
+        entry: "We talked about the main components when setting up HTML. We also worked on Yellow Brick Code and semantic details.",
+        mood: "excited"
     },
     {
         id: 2,
@@ -15,6 +15,13 @@ const journal = [
     },
     {
         id: 3,
+        date: "09/17/2021",
+        concept: "Holiday Road",
+        entry: "We finished our groups projects on Holiday Road and presented them to both the class and our respective instructor.",
+        mood: "happy"
+    },
+    {
+        id: 4,
         date: "09/17/2021",
         concept: "Holiday Road",
         entry: "We finished our groups projects on Holiday Road and presented them to both the class and our respective instructor.",
