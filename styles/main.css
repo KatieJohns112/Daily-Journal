@@ -95,8 +95,9 @@ footer {
 
 .info {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: left;
     flex-direction: column;
+    margin-left: 30px;
 }
 
 .dropbtn {
