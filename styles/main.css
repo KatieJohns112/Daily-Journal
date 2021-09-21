@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa|Patua+One");
+
+
 h1 {
     text-align: center;
     background-color: rgb(153, 115, 121);
@@ -10,7 +13,7 @@ h1 {
 
 .header {
     text-align: center;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: "Comfortaa", Arial, sans-serif;
     border-style: solid;
     border-color: rgb(218, 181, 187);;
     border-width: thick;
@@ -19,7 +22,7 @@ h1 {
 body {
     background-image: url("../images/darkmountains.jpeg");
     background-size: cover;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Comfortaa", Arial, sans-serif;
 
 }
 
@@ -82,6 +85,7 @@ footer {
     color: white;
     margin-left: 5%;
     margin-right: 5%;
+    margin-bottom: 2%;
 }
 
 .copyright {

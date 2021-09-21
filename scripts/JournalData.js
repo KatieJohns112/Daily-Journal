@@ -3,7 +3,7 @@ const journal = [
         id: 1,
         date: "08/10/2021",
         concept: "HTML & CSS",
-        entry: "We talked about the main components when setting up HTML. We also worked on Yellow Brick Code and semantic details,",
+        entry: "We talked about the main components when setting up HTML. We also worked on Yellow Brick Code and semantic details.",
         mood: "excited"
     },
     {
