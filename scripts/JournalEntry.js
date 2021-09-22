@@ -1,10 +1,10 @@
-export const journalEntryComponent = (entry) => {
+export const journalEntryComponent = (entryObj) => {
     return `
-    <section id="entry-${entry.id}" class="journalEntry"></section>
-     <h1>${entry.concept}</h1>
-     <h3>${entry.entry}</h3>
-     <h4>${entry.date}</h4>
-     <h5>${entry.mood}</h5>
+    <section id="entry-${entryObj.id}" class="journalEntry"></section>
+     <h1>${entryObj.concept}</h1>
+     <h3>${entryObj.entry}</h3>
+     <h4>${entryObj.date}</h4>
+     <h5>${entryObj.mood}</h5>
     </section>
 `
 }
