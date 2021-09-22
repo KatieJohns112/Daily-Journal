@@ -1,41 +1,64 @@
 {
-  "users": [
+  "entries": [
     {
       "id": 1,
       "date": "08/10/2021",
       "concept": "HTML & CSS",
       "entry": "We talked about the main components when setting up HTML. We also worked on Yellow Brick Code and semantic details.",
       "mood": "excited"
-  },
-  {
+    },
+    {
       "id": 2,
       "date": "07/26/2025",
       "concept": "Complex Flexbox",
-      "entry": "I tried to have an element in my Flexbox layout also be another Flexbox layout. It hurt my brain. I hate Steve.",
+      "entry": "I tried to have an element in my Flexbox layout also be another Flexbox layout. It hurt my brain.",
       "mood": "Sad"
-  },
-  {
+    },
+    {
       "id": 3,
       "date": "09/17/2021",
       "concept": "Holiday Road",
       "entry": "We finished our groups projects on Holiday Road and presented them to both the class and our respective instructor.",
       "mood": "happy"
-  },
-  {
+    },
+    {
       "id": 4,
       "date": "09/17/2021",
       "concept": "Holiday Road",
       "entry": "We finished our groups projects on Holiday Road and presented them to both the class and our respective instructor.",
       "mood": "happy"
-  }
-  ],
-  "journalEntries": [
+    },
     {
-      "id": 1,
-      "conceptsCovered": "Json",
-      "dateOfEntry": "September 1, 2021",
-      "userId": "KatieLong112",
-      "mood": "happy"
+      "date": "",
+      "concept": "adwwdasa",
+      "entry": "awdasda",
+      "userId": 1,
+      "mood": "awdswsad",
+      "id": 5
+    },
+    {
+      "date": "",
+      "concept": "adwadas",
+      "entry": "adwddsa",
+      "userId": 1,
+      "mood": "asdasdxzc",
+      "id": 6
+    },
+    {
+      "date": "",
+      "concept": "test test",
+      "entry": "testing",
+      "userId": 1,
+      "mood": "happy",
+      "id": 7
+    },
+    {
+      "date": "",
+      "concept": "Testing again",
+      "entry": "test",
+      "userId": 1,
+      "mood": "sad",
+      "id": 8
     }
   ],
   "mood": [
